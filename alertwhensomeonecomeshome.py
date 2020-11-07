@@ -18,6 +18,6 @@ while True:
         #to your network (alert when the said owner of the device comes home). 
         #In my case, it is my sister Pahi 
 
-#Can improve on this by time.sleep() method to run 24 x 7 or to ring the doorbell as soon as
-#someone connects to the wifi network if implemented on a raspberry pi
+#Can improve on this by time.sleep() method to run 24 x 7 or to ring the doorbell 
+#as soon as someone connects to the wifi network if implemented on a raspberry pi
     
