@@ -1,0 +1,9 @@
+# Username = Abhimanyu 8
+
+
+     git init
+     git add $HOME/git/My-Python-Garbage
+     git commit -m "Your message about the commit"
+     git remote add origin https://github.com/Abhimanyu8/My-Python-Garbage.git
+     git push -u origin master
+     git push origin master  
