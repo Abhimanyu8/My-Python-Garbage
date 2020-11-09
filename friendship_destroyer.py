@@ -7,7 +7,7 @@ import os
 os.environ['DISPLAY'] = ':0'
 #Debug_End
 
-import pyautogui, sleep
+import pyautogui, time
 time.sleep(5) #Think of this is the detonator fuse . tweak it first !
 
 #mayhem starts here :
