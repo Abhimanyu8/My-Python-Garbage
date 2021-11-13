@@ -15,7 +15,8 @@ def bs(l,val):
     return midval
 
 l=[]
-n=int(input("Enter the length of the list lmao:"))
+n=int(input("Enter the length of the list lmao
+:"))
 for k in range(n):
     x=int(input("Enter Element :"))
     l.append(x)
